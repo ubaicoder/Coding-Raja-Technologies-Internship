@@ -1,0 +1,14 @@
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+.background{
+    background-color: aqua;
+}
+#cv-template{
+    display: none                                                                                                                        ;
+}

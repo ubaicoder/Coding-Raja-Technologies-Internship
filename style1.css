@@ -1,0 +1,53 @@
+.container{
+    margin: 15px;
+    padding: 10px;
+    display: flexbox;
+    align-items: center;
+ 
+    height: 90%;
+    margin-left: 60px;
+}
+
+
+img{
+    width: 20%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 420px;
+    margin-top: 200px;
+}
+.row{
+    
+    background-color: beige;
+    width: 85%;
+    height: 80%;
+    margin-left: 80px;
+    margin-top: 50px;
+    border: solid;
+    border-radius: 10px;
+    border-color: white;
+    box-shadow: 2px 2px 2px;
+}
+form{
+    margin-top: 145px;
+   
+}
+label{
+    line-height: 2rem;
+}
+.btn3{
+    margin-top: 15px;
+    width: 15%;
+}
+input{
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px;
+   
+}
+.em{
+    width: 80%;
+
+}
+.btn3:hover {
+    background-color: #3e8e41;
+}
